@@ -5,7 +5,7 @@ python -m venv .venv
 WINDOWS
 venv\scripts\activate
 
-2.INSTALL DEPENDENCIES
+2.INSTALL DEPENDENCIES                        
 pip install -r requirements.txt
 
 
