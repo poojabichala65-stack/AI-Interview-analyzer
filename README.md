@@ -1,15 +1,15 @@
-1.CREATE A VIRTUAL ENVIRONMENT              
+1.create virtual environment                                       
 python -m venv .venv
 
 
-WINDOWS                                       
+windows                                                                             
 venv\scripts\activate
 
-2.INSTALL DEPENDENCIES                        
+2.install dependencies                                                             
 pip install -r requirements.txt
 
 
-3.RUN                                        
+3.run                                                                    
 streamlit run app.py
 
 
