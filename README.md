@@ -9,7 +9,7 @@ venv\scripts\activate
 pip install -r requirements.txt
 
 
-3.RUN
+3.RUN                                        
 streamlit run app.py
 
 
