@@ -2,7 +2,7 @@
 python -m venv .venv
 
 
-WINDOWS
+WINDOWS                                       
 venv\scripts\activate
 
 2.INSTALL DEPENDENCIES                        
