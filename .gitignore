@@ -1,0 +1,69 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Uploaded interview videos
+uploads/
+videos/
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Generated output files
+outputs/
+output/
+results/
+
+# AI / ML model files
+models/
+*.bin
+*.pt
+*.pth
+*.onnx
+
+# ChromaDB / Vector database
+chroma_db/
+chroma/
+*.sqlite3
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python build files
+build/
+dist/
+*.egg-info/
+
+# Cache
+.cache/
+.pytest_cache/
